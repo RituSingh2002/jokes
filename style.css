@@ -44,7 +44,7 @@ button:disabled{
   cursor: default;
   filter: brightness(30%);
 }
-@media only screen and (max-width: 1300px){
+@media only screen and (max-width: 600px){
    
    .container{
      background-position: center center;
